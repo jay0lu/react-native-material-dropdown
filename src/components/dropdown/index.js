@@ -417,6 +417,7 @@ export default class Dropdown extends PureComponent {
         height: this.itemSize(),
         paddingLeft: leftInset,
         paddingRight: rightInset,
+        backgroundColor: "red",
       },
     };
 
